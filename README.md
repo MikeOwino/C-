@@ -12,3 +12,5 @@
 
 ![](https://content.codecademy.com/courses/learn-c-sharp/data-types-variables/C%23_DataTypes_v4-01.svg)
 ![](https://content.codecademy.com/courses/updated_images/Boolean%2Boperators%2Bdk_Updated_1-01.svg)
+![](https://content.codecademy.com/courses/learn-c-sharp/arrays/C%23SyntaxDiagram_1_black.svg)
+![](https://content.codecademy.com/courses/learn-c-sharp/classes-and-objects/Edited%20Classes%20Frame.svg)
