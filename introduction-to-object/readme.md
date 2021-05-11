@@ -1,0 +1,1 @@
+![](https://content.codecademy.com/courses/learn-c-sharp/references/inheritance-diagram-object-class.svg)
