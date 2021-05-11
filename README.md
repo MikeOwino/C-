@@ -16,3 +16,7 @@
 ![](https://content.codecademy.com/courses/learn-c-sharp/classes-and-objects/Edited%20Classes%20Frame.svg)
 ![](https://content.codecademy.com/courses/learn-c-sharp/interfaces-and-inheritance/ErrorFunnelDiagram_3.svg)
 ![](https://content.codecademy.com/courses/learn-c-sharp/interfaces-and-inheritance/InheritenceDiagram_2.svg)
+![](https://content.codecademy.com/courses/learn-c-sharp/references/book-diary-dissertation-diagram-v2.svg)
+![](https://content.codecademy.com/courses/learn-c-sharp/references/MemoryBlocks_3.svg)
+![](https://content.codecademy.com/courses/learn-c-sharp/references/MemoryBlocks_2.svg)
+![references-of-the-same-type](https://content.codecademy.com/courses/learn-c-sharp/references/MemoryBlocks_1.svg)
