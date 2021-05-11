@@ -15,4 +15,4 @@
 ![](https://content.codecademy.com/courses/learn-c-sharp/arrays/C%23SyntaxDiagram_1_black.svg)
 ![](https://content.codecademy.com/courses/learn-c-sharp/classes-and-objects/Edited%20Classes%20Frame.svg)
 ![](https://content.codecademy.com/courses/learn-c-sharp/interfaces-and-inheritance/ErrorFunnelDiagram_3.svg)
-![]()
+![](https://content.codecademy.com/courses/learn-c-sharp/interfaces-and-inheritance/InheritenceDiagram_2.svg)
