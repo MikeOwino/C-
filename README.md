@@ -1,4 +1,4 @@
-# CSHARP (C#) .
+# CSHARP (C#)
 
 - int - whole numbers, like: 1, -56, 948
 
